@@ -1,0 +1,139 @@
+* {
+    text-align: center;
+    margin: auto;
+    position: relative;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+h1 {
+    color: #4ba3c3;
+    font-size: 12vw;
+
+}
+
+h3 {
+    color: #4ba3c3;
+    font-size: 4vw;
+
+}
+
+h2 {
+    color: #4ba3c3;
+    font-size: 5vw;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #3e849d;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1vw;
+    font-family: 'Roboto Slab', serif;
+    position: relative;
+    background-color: #3e849d;
+    color: white;
+
+}
+
+.topnav a:hover {
+    background-color: #cce6f4;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #ff6978;
+    color: white;
+}
+
+#myVideo {
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+}
+
+
+.content {
+    position: fixed;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
+
+.box {
+    margin: 10px;
+    border: 10px solid #175676;
+    padding: 1px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+    background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+body {
+    font-size: 1.7vw;
+    background-color: #4ba3c3;
+    
+
+}
+
+.header {
+    border: 10px solid #175676;
+    padding: 1px;
+    background-color: #cce6f4;
+    width: 50%;
+    margin-top: 2%;
+    height: 100%;
+
+}
+
+.p {
+    border: 10px solid #175676;
+    padding: 1px;
+    background-color: #cce6f4;
+    width: 30%;
+    color: #175676;
+    float: left;
+    margin: 2%;
+    margin-right: 10%;
+    max-height: 100%;
+}
+
+.p2 {
+    border: 10px solid #175676;
+    padding: 1px;
+    background-color: #cce6f4;
+    width: 30%;
+    color: #175676;
+    float: left;
+    margin: 2%;
+    margin-left: 15%;
+    height: 100%;
+}
+
+.p3 {
+    border: 10px solid #175676;
+    padding: 1px;
+    background-color: #cce6f4;
+    width: 50%;
+    color: #175676;
+    margin-top: 2%;
+    height:
+}
+
+img {
+    width: 100%;
+
+}
